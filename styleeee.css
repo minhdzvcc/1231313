@@ -1,0 +1,6 @@
+th {
+  color: aqua;
+}
+input:checked ~ img {
+  opacity: 0;
+}
